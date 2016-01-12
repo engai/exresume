@@ -1,0 +1,29 @@
+body {
+  width: 800px;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.content {
+  padding-left: 30px;
+}
+
+.skills {
+  display: inline-block;
+}
+
+.name {
+  display: inline-block;
+  float: left;
+}
+
+.contact {
+  display: inline-block;
+  float: right;
+}
+
+hr {
+  clear:both;
+}
